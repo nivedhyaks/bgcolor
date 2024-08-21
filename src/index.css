@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    place-items: center;
+}
+button {
+    width: 100px;
+}
